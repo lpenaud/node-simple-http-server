@@ -1,0 +1,9 @@
+{
+  "name": "node-simple-http-server",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "git+https://github.com/lpenaud/node-simple-http-server.git",
+  "author": "lpenaud",
+  "license": "MIT",
+  "private": false
+}
